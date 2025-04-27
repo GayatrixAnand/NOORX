@@ -32,19 +32,19 @@ from PROMUSIC.utils.database.clonedb import get_owner_id_from_db, get_cloned_sup
 #--------------------------
 
 NEXI_VID = [
-"https://telegra.ph/file/1a3c152717eb9d2e94dc2.mp4",
-"https://graph.org/file/ba7699c28dab379b518ca.mp4",
-"https://graph.org/file/83ebf52e8bbf138620de7.mp4",
-"https://graph.org/file/82fd67aa56eb1b299e08d.mp4",
-"https://graph.org/file/318eac81e3d4667edcb77.mp4",
-"https://graph.org/file/7c1aa59649fbf3ab422da.mp4",
-"https://graph.org/file/2a7f857f31b32766ac6fc.mp4",
+"https://files.catbox.moe/8f6dvp.jpg",
+"https://files.catbox.moe/7gsz5e.jpg",
+"https://files.catbox.moe/fzqfk4.jpg",
+"https://files.catbox.moe/va7q7c.jpg",
+"https://files.catbox.moe/b9j462.jpg",
+"https://files.catbox.moe/lhjf6n.jpg",
+"https://files.catbox.moe/zaf1mf.jpg",
 
 ]
 
 YUMI_PICS = [
-"https://graph.org/file/7db127c0ab5acc37bdfa5-30891a03d37366afbe.jpg",
-"https://graph.org/file/66b7bb1cf206376dd5ceb-03d047178a9c3418c9.jpg",
+"https://files.catbox.moe/1akyo8.jpg",
+"https://files.catbox.moe/evpp0a.jpg",
 
 ]
 
