@@ -32,13 +32,13 @@ from PROMUSIC.utils.database import get_assistant, is_active_chat
 @app.on_message(filters.command("clone"))
 async def clones(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://i.ibb.co/k3cw8XS/IMG-20250103-174108-968.jpg",
+        photo=f"https://files.catbox.moe/va7q7c.jpg",
         caption=f"""**♥️You Are Not Sudo User So You Are Not Allowed To Clone Me.**\n**♥️Click Given Below Button And Host Manually Otherwise Contact Owner Or Sudo Users For Clone.**""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "❮Oᴡɴᴇʀ❯", url=f"https://t.me/Legend_mickey"
+                        "❮Oᴡɴᴇʀ❯", url=f"https://t.me/KALAKAAR5"
                     )
                 ]
             ]
